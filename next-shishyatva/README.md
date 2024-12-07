@@ -1,3 +1,6 @@
+Shishyatva is a one to one mentorship platform which enables young professionals to find experienced mentors and level themselves up under their guidance. Get access to curated content and weekly meetings with your mentor.
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
