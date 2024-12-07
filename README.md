@@ -5,16 +5,18 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
+Make sure you add the API key for gemini as well as check the database connectors.
+Start the backend server using 
+```bash
+npm run start
+```
+
+Then cd to the next-shishyatva directory
+
+Then run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
